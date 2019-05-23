@@ -1,6 +1,9 @@
-//Array.includes
-const arr = ["hello", "z", "y", "x"];
+//String.includes
+const myText = "some very long text with zzz";
 
-if (arr.indexOf("z") !== -1) {
-  //
+if (myText.indexOf("z") !== -1) {
+
 }
+
+
+export {}
